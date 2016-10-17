@@ -1,5 +1,4 @@
 ﻿require.config({
-    enforceDefine: true,
     waitSeconds: 0,
     paths: {
         'angular': '/lib/angular',
