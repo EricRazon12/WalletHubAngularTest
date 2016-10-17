@@ -1,5 +1,5 @@
 ﻿require.config({
-    waitSeconds: 200,
+    waitSeconds: 5,
     paths: {
         'angular': '/lib/angular',
         'angular-animate': '/lib/angular-animate',
